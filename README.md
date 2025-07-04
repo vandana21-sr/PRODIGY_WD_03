@@ -47,8 +47,8 @@ PRODIGY_WD_03/
 To run this project locally:
 
 ```bash
-git clone https://github.com/yourusername/tic-tac-toe-app
-cd tic-tac-toe-app
+git clone https://github.com/vandana-21sr/PRODIGY_WD_03
+cd PRODIGY_WD_03
 Then open index.html in any modern web browser.
 
 🔗 GitHub Repository
